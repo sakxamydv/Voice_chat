@@ -1,4 +1,4 @@
-# 🎙️ VoiceChat — Real-Time TCP Chat + Voice *(coming soon)*
+# 🎙️ VoiceChat — Real-Time TCP Chat + Voice (switch to master branch)
 
 A lightweight **real-time chat application** built from scratch using Python's `socket` and `threading` libraries — no frameworks, no dependencies. Just raw TCP networking.
 
