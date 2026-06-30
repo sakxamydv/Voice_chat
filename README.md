@@ -143,8 +143,8 @@ ENTER YOUR NAME :
 
 ## 👤 Author
 
-**Ez-Saksham**  
-GitHub: [@Ez-Saksham](https://github.com/Ez-Saksham)
+**sakxamydv**  
+GitHub: [@sakxamydv](https://github.com/sakxamydv)
 
 ---
 
